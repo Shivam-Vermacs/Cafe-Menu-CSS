@@ -18,7 +18,7 @@ A simple and elegant cafe menu web page designed using HTML and CSS. This projec
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cafe-menu.git
+   git clone https://github.com/Shivam-Vermacs/cafe-menu.git
    ```
 
 2. Navigate to the project directory:
@@ -41,7 +41,7 @@ A simple and elegant cafe menu web page designed using HTML and CSS. This projec
    </div>
    ```
 
-2. **Styling**: Modify the `style.css` file to change colors, fonts, and layout.
+2. **Styling**: Modify the `styles.css` file to change colors, fonts, and layout.
    ```css
    body {
        font-family: 'Arial', sans-serif;
